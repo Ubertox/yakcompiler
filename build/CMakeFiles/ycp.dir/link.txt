@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ycp.dir/src/main.cpp.o -o ycp 

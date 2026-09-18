@@ -1,0 +1,6 @@
+
+STACK{
+    bit main(){
+        return 0 u1;
+    }
+}

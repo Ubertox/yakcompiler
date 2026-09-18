@@ -1,0 +1,3 @@
+/home/yak/code/foo/a/b/build/CMakeFiles/ycp.dir
+/home/yak/code/foo/a/b/build/CMakeFiles/edit_cache.dir
+/home/yak/code/foo/a/b/build/CMakeFiles/rebuild_cache.dir
